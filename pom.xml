@@ -31,12 +31,6 @@
             <artifactId>bootstrap</artifactId>
             <version>3.2.0</version>
         </dependency>
-        <!-- Lombok - Make Java look less redundant -->
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <scope>provided</scope>
-        </dependency>
 
         <!-- Apache Commons -->
         <dependency>

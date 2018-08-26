@@ -1,9 +1,9 @@
 # springbootstarter
 Springboot starter demo
-版本信息:
+<pre>版本信息:
   springboot version:1.5.9.RELEASE
   springboot aop starter：1.5.9.RELEASE
- 
+</pre> 
 使用插件：<br/>
 <pre>  lombok：1.18.0</pre>
 
